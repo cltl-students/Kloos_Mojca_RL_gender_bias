@@ -8,3 +8,5 @@ The models can be trained using the notebook RL_gender_bias. In order to run it,
 # Thesis report
 The report can be found via this link: 
 
+# Data
+The data can be crawled by following the steps as described in https://github.com/Microsoft/biosbias
